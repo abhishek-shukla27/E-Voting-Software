@@ -38,6 +38,7 @@ public class Main  {
                     tf.setText(null);
                     tf1.setText("You have given vote to Party B");
                     partyB++;
+                    System.out.println("No of votes of Party B");
                     System.out.println(partyB);
                     frame.add(tf1);
                    //tf.remove(null);
